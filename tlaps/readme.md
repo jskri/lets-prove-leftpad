@@ -3,7 +3,7 @@
 ## About TLAPS
 
 The TLA+ Proof System ([TLAPS]) is a mechanical proof checker for checking
-a [structured proof] written in TLA+.
+a [structured proof] written in TLA+...
 
 [TLAPS]: https://tla.msr-inria.inria.fr/tlaps/content/Home.html
 
